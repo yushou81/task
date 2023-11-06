@@ -1,0 +1,6 @@
+git init //初始化一个仓库
+git statue //状态
+git add .//将所有文件放入弹膛
+git commit -m"这里填注释"//将刚刚弹膛里的子弹放入仓库
+git checkout HEAD 文件名//将最后提交的文件复制回来
+git add 文件名//单独提交一个文件
